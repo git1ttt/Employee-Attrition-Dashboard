@@ -1,33 +1,34 @@
-# 👩‍💼 Employee Performance Dashboard (Power BI)
+# 👩‍💼 Employee Attrition Dashboard (Power BI)
 
 ## 🚀 Project Overview
-This project is an interactive Power BI dashboard designed to analyze employee performance, productivity, and workforce efficiency. It provides clear insights to help HR teams and managers make data-driven decisions.
+This project is an interactive Power BI dashboard designed to analyze employee attrition, performance, and workforce trends. It helps organizations understand employee turnover and improve retention strategies.
 
 ---
 
 ## 🎯 Business Use Case
-This dashboard helps organizations:
-- Monitor employee performance across departments
-- Identify top-performing and underperforming teams
-- Track attendance and working patterns
-- Improve workforce productivity and decision-making
+This dashboard helps HR teams to:
+- Identify attrition trends
+- Analyze employee distribution across departments
+- Monitor workforce performance
+- Improve employee retention strategies
 
 ---
 
 ## 📌 Key Insights
-- 👥 Total Employees: 500+
-- ⭐ Top Performing Department: Sales
-- 📉 Low Performance Area: Support Team
-- ⏱ Average Working Hours: 8 hrs/day
+- 👥 Total Employees: 1470
+- 📉 Attrition Rate: 16%
+- ⭐ Highest Attrition Department: Sales
+- 📊 Average Age: 36 years
 
 ---
 
 ## 📊 Dashboard Features
-- 📌 Employee Count KPI Card
-- 📊 Performance by Department (Bar Chart)
-- 🥧 Employee Distribution (Pie/Donut Chart)
-- 📈 Attendance / Working Hours Trend (Line Chart)
-- 🎛 Department Filter (Slicer)
+- Employee Count KPI Card
+- Attrition Analysis (Bar Chart)
+- Department-wise Distribution
+- Attrition Trend Over Time
+- Gender & Age Insights
+- Department Filter (Slicer)
 
 ---
 
@@ -39,7 +40,8 @@ This dashboard helps organizations:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](employee_dashboard.png)
+
+<!-- DELETE THIS LINE AND DRAG IMAGE HERE -->
 
 ---
 
@@ -51,9 +53,9 @@ This dashboard helps organizations:
 
 ## 💡 Key Learnings
 - Built interactive dashboards using Power BI
-- Applied data visualization techniques for insights
-- Used filters and slicers for dynamic analysis
-- Designed clean and professional layouts
+- Applied data visualization techniques
+- Used slicers and filters for dynamic insights
+- Improved dashboard design skills
 
 ---
 
