@@ -41,7 +41,7 @@ This dashboard helps HR teams to:
 
 ## 📷 Dashboard Preview
 
-<!-- DELETE THIS LINE AND DRAG IMAGE HERE -->
+![Dashboard](Screenshot%202026-08-12%20192229.png)
 
 ---
 
